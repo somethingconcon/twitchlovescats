@@ -1,0 +1,34 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/Twitchlovescats.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/Twitchlovescats.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/Twitchlovescats.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler fd8931f, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/resources.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jsse.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jce.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/charsets.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/lib/jfr.jar:/Users/conorreedy1/Development/Platforms/jdk1.8.0_25.jdk/Contents/Home/jre/classes:/Users/conorreedy1/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/Twitchlovescats.scala:3: object jibble is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.jibble.pircbot._[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0m/Users/conorreedy1/Development/DysFunctionalDevelopmentApps/cats/twitchlovescats/src/main/scala/org/example/Twitchlovescats.scala:5: not found: type PircBot[0m
+[0m[[31merror[0m] [0mobject Twitchlovescats extends PircBot with App {[0m
+[0m[[31merror[0m] [0m                               ^[0m
+[0m[[31merror[0m] [0mtwo errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
